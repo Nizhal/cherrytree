@@ -2443,52 +2443,52 @@ msgid "Open Embedded File"
 msgstr ""
 
 msgid "_Rename"
-msgstr ""
+msgstr "மறுபெயரிடவும்"
 
 msgid "Rename Embedded File"
-msgstr ""
+msgstr "உட்பொதிந்த கோப்பின் பெயரை மாற்றவும்"
 
 msgid "_Save LatexBox as PNG..."
-msgstr ""
+msgstr "லேடெக்ஸ்பாக்ஸை PNG ஆக சேமிக்கவும்..."
 
 msgid "Save the Selected LatexBox as a PNG file"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட லேடெக்ஸ்பாக்ஸை ஒரு PNG ஆக சேமிக்கவும் கோப்பு"
 
 msgid "_Edit LatexBox..."
-msgstr ""
+msgstr "லேடெக்ஸ் பெட்டியைத் திருத்து..."
 
 msgid "Edit the Selected LatexBox"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட லேடெக்ஸ் பெட்டியைத் திருத்து"
 
 msgid "C_ut LatexBox"
-msgstr ""
+msgstr "லேடெக்ஸ் பெட்டியை வெட்டு"
 
 msgid "Cut the Selected LatexBox"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட லேடெக்ஸ் பெட்டியை வெட்டு"
 
 msgid "_Copy LatexBox"
-msgstr ""
+msgstr "லேடெக்ஸ் பெட்டியை நகலெடு"
 
 msgid "Copy the Selected LatexBox"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட லேடெக்ஸ் பெட்டியை நகலெடு"
 
 msgid "_Delete LatexBox"
-msgstr ""
+msgstr "லேடெக்ஸ் பெட்டியை நீக்கு"
 
 msgid "Delete the Selected LatexBox"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட லேடெக்ஸ் பெட்டியை நீக்கு"
 
 msgid "_Save Image as PNG..."
-msgstr ""
+msgstr "படத்தை PNG ஆகச் சேமி..."
 
 msgid "Save the Selected Image as a PNG file"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட படத்தை PNG கோப்பாகச் சேமி"
 
 msgid "_Edit Image..."
-msgstr ""
+msgstr "படத்தைத் திருத்து..."
 
 msgid "Edit the Selected Image"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட படத்தைத் திருத்து"
 
 msgid "C_ut Image"
 msgstr "படத்தை வெட்டு"
