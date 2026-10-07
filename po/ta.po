@@ -2491,606 +2491,609 @@ msgid "Edit the Selected Image"
 msgstr ""
 
 msgid "C_ut Image"
-msgstr ""
+msgstr "படத்தை வெட்டு"
 
 msgid "Cut the Selected Image"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட படத்தை வெட்டு"
 
 msgid "_Copy Image"
-msgstr ""
+msgstr "படத்தை நகலெடு"
 
 msgid "Copy the Selected Image"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட படத்தை நகலெடு"
 
 msgid "_Delete Image"
-msgstr ""
+msgstr "படத்தை நீக்கு"
 
 msgid "Delete the Selected Image"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட படத்தை நீக்கு"
 
 msgid "Edit _Link..."
-msgstr ""
+msgstr "இணைப்பைத் திருத்து..."
 
 msgid "Edit the Link Associated to the Image"
-msgstr ""
+msgstr "படத்துடன் தொடர்புடைய இணைப்பைத் திருத்து"
 
 msgid "D_ismiss Link"
-msgstr ""
+msgstr "இணைப்பை நீக்கு"
 
 msgid "Dismiss the Link Associated to the Image"
-msgstr ""
+msgstr "படத்துடன் தொடர்புடைய இணைப்பை நீக்கு"
 
 msgid "Show/Hide _CherryTree"
-msgstr ""
+msgstr "CherryTree-ஐக் காட்டு/மறை"
 
 msgid "Toggle Show/Hide CherryTree"
-msgstr ""
+msgstr "CherryTree-ஐக் காட்டுதல்/மறைத்தலை மாற்றுக"
 
 msgid "Edit the Underlying Link"
-msgstr ""
+msgstr "அடிப்படை இணைப்பைத் திருத்து"
 
 msgid "C_ut Link"
-msgstr ""
+msgstr "இணைப்பை வெட்டு"
 
 msgid "Cut the Selected Link"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட இணைப்பை வெட்டு"
 
 msgid "_Copy Link"
-msgstr ""
+msgstr "இணைப்பை நகலெடு"
 
 msgid "Copy the Selected Link"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட இணைப்பை நகலெடு"
 
 msgid "Dismiss the Selected Link"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட இணைப்பை நீக்கு"
 
 msgid "_Delete Link"
-msgstr ""
+msgstr "இணைப்பை நீக்கு"
 
 msgid "Delete the Selected Link"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட இணைப்பை நீக்கு"
 
 msgid "English"
-msgstr ""
+msgstr "ஆங்கிலம்"
 
 msgid "Text and Code"
-msgstr ""
+msgstr "உரை மற்றும் நிரல்"
 
 msgid "Plain Text and Code"
-msgstr ""
+msgstr "சாதாரண உரை மற்றும் நிரல்"
 
 msgid "Tree Explorer"
-msgstr ""
+msgstr "கிளை அமைப்பு உலாவி"
 
 msgid "Theme"
-msgstr ""
+msgstr "தோற்றம்"
 
 msgid "Interface"
-msgstr ""
+msgstr "இடைமுகம்"
 
 msgid "Links"
-msgstr ""
+msgstr "இணைப்புகள்"
 
 msgid "Toolbar"
-msgstr ""
+msgstr "கருவிப்பட்டை"
 
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "விசைப்பலகை குறுக்குவழிகள்"
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "பிற"
 
 msgid "Monospace"
-msgstr ""
+msgstr "சம-அகல எழுத்துரு"
 
 msgid "Code Font"
-msgstr ""
+msgstr "நிரல் எழுத்துரு"
 
 msgid "Terminal Font"
-msgstr ""
+msgstr "முனைய எழுத்துரு"
 
 msgid "Tree Font"
-msgstr ""
+msgstr "கிளை அமைப்பு எழுத்துரு"
 
 msgid "Reset to Default"
-msgstr ""
+msgstr "இயல்புநிலைக்கு மீட்டமை"
 
 msgid "Fonts"
-msgstr ""
+msgstr "எழுத்துருக்கள்"
 
 msgid "Enable Word Count in Statusbar"
-msgstr ""
+msgstr "நிலைப்பட்டியில் சொல் எண்ணிக்கையைச் செயல்படுத்தவும்"
 
 msgid "Show the Document Directory in the Window Title"
-msgstr ""
+msgstr "சாளரத் தலைப்பில் ஆவணக் கோப்பகத்தைக் காட்டவும்"
 
 msgid "Show the Full Path in the Node Name Header"
-msgstr ""
+msgstr "முனைப் பெயர் தலைப்பில் முழுப் பாதையைக் காட்டவும்"
 
 msgid "Dedicated Bookmarks Menu in Menubar"
-msgstr ""
+msgstr "பட்டிப்பட்டியில் தனிப்பட்ட புத்தக்குறி பட்டி"
 
 msgid "Menubar in Titlebar"
-msgstr ""
+msgstr "தலைப்புப்பட்டியில் பட்டிப்பட்டி"
 
 msgid "Toolbar Icons Size"
-msgstr ""
+msgstr "கருவிப்பட்டை சின்னங்களின் அளவு"
 
 msgid "Last Visited Nodes on Node Name Header"
-msgstr ""
+msgstr "முனைப் பெயர் தலைப்பில் கடைசியாகப் பார்வையிட்ட முனைகள்"
 
 msgid "Scrollbar Slider Minimum Size (0 = System Default)"
-msgstr ""
+msgstr "உருள் பட்டை ஸ்லைடரின் குறைந்தபட்ச அளவு (0 = கணினி இயல்புநிலை)"
 
 msgid "Scrollbar Overlays Text Editor"
-msgstr ""
+msgstr "உருள் பட்டை உரைத் திருத்தியின் மீது அமைகிறது"
 
 msgid "System Default"
-msgstr ""
+msgstr "கணினி இயல்புநிலை"
 
 msgid "Yes"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "No"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "Enable Tooltips When Hovering"
-msgstr ""
+msgstr "சுட்டியை நகர்த்தும்போது குறிப்புகளைக் காட்டவும்"
 
 msgid "Menus"
-msgstr ""
+msgstr "பட்டிகள்"
 
 msgid "Max Search Results per Page"
-msgstr ""
+msgstr "ஒரு பக்கத்திற்கான அதிகஅளவு தேடல் முடிவுகள்"
 
 msgid "Save Search/Replace History Between Sessions"
-msgstr ""
+msgstr "அமர்வுகளுக்கு இடையே தேடல்/மாற்றுதல் வரலாற்றைச் சேமிக்கவும்"
 
 msgid "Enable Custom Web Link Clicked Action"
-msgstr ""
+msgstr "தனிப்பயன் இணைய இணைப்புச் செயல்பாடு"
 
 msgid "Enable Custom File Link Clicked Action"
-msgstr ""
+msgstr "தனிப்பயன் கோப்பு இணைப்புச் செயல்பாடு"
 
 msgid "Enable Custom Folder Link Clicked Action"
-msgstr ""
+msgstr "தனிப்பயன் கோப்பக இணைப்புச் செயல்பாடு"
 
 msgid "Custom Actions"
-msgstr ""
+msgstr "தனிப்பயன் செயல்பாடுகள்"
 
 msgid "Colors"
-msgstr ""
+msgstr "நிறங்கள்"
 
 msgid "Double Click for Link Action"
-msgstr ""
+msgstr "இணைப்புச் செயல்பாட்டிற்கு இருமுறை கிளிக் செய்யவும்"
 
 msgid "Underline Links"
-msgstr ""
+msgstr "இணைப்புகளுக்கு அடிக்கோடிடவும்"
 
 msgid "Use Relative Paths for Files And Folders"
-msgstr ""
+msgstr "கோப்புகள் மற்றும் கோப்பகங்களுக்குச் சார்புப் பாதைகளைப் பயன்படுத்தவும்"
 
 msgid "Anchor Size"
-msgstr ""
+msgstr "நங்கூரத்தின் அளவு"
 
 msgid "Change Selected"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்டதை மாற்றவும்"
 
 #, c-format
 msgid "The Keyboard Shortcut '%s' is already in use."
-msgstr ""
+msgstr "'%s' என்ற விசைப்பலகை குறுக்குவழி ஏற்கனவே பயன்பாட்டில் உள்ளது."
 
 #, c-format
 msgid "The current associated action is '%s'"
-msgstr ""
+msgstr "தற்போது அதனுடன் தொடர்புடைய செயல்பாடு '%s' ஆகும்"
 
 msgid "Do you want to steal the shortcut?"
 msgstr ""
+"இந்தக் குறுக்குவழியை நீங்கள் எடுத்துக்கொள்ள விரும்புகிறீர்களா?" 
+
 
 msgid "Edit Keyboard Shortcut"
-msgstr ""
+msgstr "விசைப்பலகை குறுக்குவழியைத் திருத்துக"
 
 msgid "No Keyboard Shortcut"
-msgstr ""
+msgstr "விசைப்பலகை குறுக்குவழி இல்லை"
 
 msgid "Autosave on Quit"
-msgstr ""
+msgstr "வெளியேறும்போது தானாகச் சேமிக்கவும்"
 
 msgid "Create a Backup Copy Before Saving"
-msgstr ""
+msgstr "சேமிப்பதற்கு முன் காப்புப் பிரதியை உருவாக்கவும்"
 
 msgid "Number of Backups to Keep"
-msgstr ""
+msgstr "வைத்திருக்க வேண்டிய காப்புப் பிரதிகளின் எண்ணிக்கை"
 
 msgid "Custom Backup Directory"
-msgstr ""
+msgstr "தனிப்பயன் காப்புப் பிரதி அடைவு"
 
 msgid "Multiple Files Storage, Use Embedded File Name On Disk"
-msgstr ""
+msgstr "பல கோப்பு சேமிப்பு; வட்டில் உட்பொதிக்கப்பட்ட கோப்புப் பெயரைப் பயன்படுத்தவும்"
 
 msgid "Saving"
-msgstr ""
+msgstr "சேமித்தல்"
 
 msgid "Automatically Check for Newer Version"
-msgstr ""
+msgstr "புதிய பதிப்பு உள்ளதா எனத் தானாகச் சரிபார்க்கவும்"
 
 msgid "Reload Document From Last Session"
-msgstr ""
+msgstr "கடைசி அமர்விலிருந்து ஆவணத்தை மீண்டும் ஏற்றவும்"
 
 msgid "Show Start Dialog When No Document Is Loaded"
-msgstr ""
+msgstr "ஆவணம் எதுவும் ஏற்றப்படாதபோது தொடக்க உரையாடல் பெட்டியைத் காட்டவும்"
 
 msgid "Reload After External Update to CT* File"
-msgstr ""
+msgstr "CT* கோப்பில் வெளிப்புறப் புதுப்பிப்புக்குப் பிறகு மீண்டும் ஏற்றவும்"
 
 msgid "Enable Debug Log"
-msgstr ""
+msgstr "பிழைத்திருத்தப் பதிவை இயக்கவும்"
 
 msgid "Debug Log Directory"
-msgstr ""
+msgstr "பிழைத்திருத்தப் பதிவுக்கான அடைவு"
 
 msgid "Enable System Tray Docking"
-msgstr ""
+msgstr "அமைப்பு தட்டில் பொருத்துவதை இயக்கவும்"
 
 msgid "Start Minimized in the System Tray"
-msgstr ""
+msgstr "அமைப்பு தட்டில் சுருக்கப்பட்ட நிலையில் தொடங்கவும்"
 
 msgid "System Tray"
-msgstr ""
+msgstr "அமைப்பு தட்டு"
 
 msgid "Language"
-msgstr ""
+msgstr "மொழி"
 
 msgid "URL"
-msgstr ""
+msgstr "முகவரி"
 
 msgid "Port"
-msgstr ""
+msgstr "துறைமுகம்"
 
 msgid "Username"
-msgstr ""
+msgstr "பயனர்பெயர்"
 
 msgid "Password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 msgid "Proxy"
-msgstr ""
+msgstr "பதிலாள்"
 
 msgid "Show White Spaces"
-msgstr ""
+msgstr "வெற்றிடங்களைக் காட்டு"
 
 msgid "Highlight Current Line"
-msgstr ""
+msgstr "தற்போதைய வரியை முன்னிலைப்படுத்து"
 
 msgid "Text Editor"
-msgstr ""
+msgstr "உரைத் தொகுப்பி"
 
 msgid "Internal Terminal Shell"
-msgstr ""
+msgstr "உள் முனைய ஓடு"
 
 msgid "Add"
-msgstr ""
+msgstr "சேர்"
 
 msgid "Remove Selected"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்டதை நீக்கு"
 
 msgid "Command per Node/CodeBox Type"
-msgstr ""
+msgstr "முனை/குறியீட்டுப் பெட்டி வகைக்குரிய கட்டளை"
 
 msgid "Terminal Command"
-msgstr ""
+msgstr "முனையக் கட்டளை"
 
 msgid "Code Execution"
-msgstr ""
+msgstr "குறியீடு இயக்கம்"
 
 msgid "Select Element to Add"
-msgstr ""
+msgstr "சேர்க்க வேண்டிய உறுப்பைத் தேர்ந்தெடு"
 
 msgid "Enable Spell Check"
-msgstr ""
+msgstr "எழுத்துப்பிழை சரிபார்ப்பை செயல்படுத்து"
 
 msgid "Spell Check Language"
-msgstr ""
+msgstr "எழுத்துப்பிழை சரிபார்ப்பு மொழி"
 
 msgid "Expand CodeBoxes Automatically"
-msgstr ""
+msgstr "குறியீட்டுப் பெட்டிகளைத் தானாக விரிவுபடுத்து"
 
 msgid "CodeBoxes Have Toolbar"
-msgstr ""
+msgstr "குறியீட்டுப் பெட்டிகளில் கருவிப்பட்டை உள்ளது"
 
 msgid "Threshold Number of Table Cells for Lightweight Interface"
-msgstr ""
+msgstr "எளிமையான இடைமுகத்திற்கான அட்டவணை உயிரணுக்களின் வரம்பு எண்ணிக்கை"
 
 msgid "Embedded File Icon Size"
-msgstr ""
+msgstr "உட்பொதிக்கப்பட்ட கோப்புச் சின்னத்தின் அளவு"
 
 msgid "Embedded File Size Limit (MB)"
-msgstr ""
+msgstr "உட்பொதிக்கப்பட்ட கோப்பு அளவு வரம்பு (MB)"
 
 msgid "Show File Name on Top of Embedded File Icon"
-msgstr ""
+msgstr "உட்பொதிக்கப்பட்ட கோப்புச் சின்னத்தின் மேல் கோப்புப் பெயரைக் காட்டு"
 
 msgid "Do Not Auto-Select Objects on Single Click"
-msgstr ""
+msgstr "ஒற்றைக் கிளிக் மூலம் பொருட்களைத் தானாகத் தேர்ந்தெடுக்க வேண்டாம்"
 
 msgid "Workaround for clipboard-related freezes on KDE 6 with Klipper"
-msgstr ""
+msgstr "Klipper உடன் KDE 6-இல் கிளிப்போர்டு தொடர்பான உறைதல் சிக்கலுக்கான தீர்வு"
 
 msgid "Limit of Undoable Steps Per Node"
-msgstr ""
+msgstr "முனைக்குரிய 'செயலை ரத்து செய்தல்' படிகளின் வரம்பு"
 
 msgid "Auto Link CamelCase Text to Node With Same Name"
-msgstr ""
+msgstr "CamelCase உரையை அதே பெயருள்ள முனையுடன் தானாக இணை"
 
 msgid "Auto Link URLs"
-msgstr ""
+msgstr "URL-களைத் தானாக இணை"
 
 msgid "At Triple Click Select the Whole Paragraph"
-msgstr ""
+msgstr "மும்முறை கிளிக் செய்யும்போது முழு பத்தியையும் தேர்ந்தெடு"
 
 msgid "Enable Markdown Auto Replacement (Experimental)"
-msgstr ""
+msgstr "Markdown தானியங்கி மாற்றீட்டைச் செயல்படுத்து (சோதனை முறை)"
 
 msgid "Scale"
-msgstr ""
+msgstr "அளவு மாற்றம்"
 
 msgid "Italic"
-msgstr ""
+msgstr "சாய்வெழுத்து"
 
 msgid "Underline"
-msgstr ""
+msgstr "அடிக்கோடு"
 
 msgid "Text Color Foreground"
-msgstr ""
+msgstr "உரையின் முன்-நிறம்"
 
 msgid "Text Color Background"
-msgstr ""
+msgstr "உரையின் பின்னணி நிறம்"
 
 msgid "Small"
-msgstr ""
+msgstr "சிறிய"
 
 msgid "Scalable Tags"
-msgstr ""
+msgstr "அளவு மாற்றக்கூடிய குறிச்சொற்கள்"
 
 msgid "Chars for Bulleted List"
-msgstr ""
+msgstr "புல்லட் பட்டியலுக்கான குறியீடுகள்"
 
 msgid "Chars for Todo List"
-msgstr ""
+msgstr "செய்ய வேண்டியவை பட்டியலுக்கான குறியீடுகள்"
 
 msgid "Chars for Table Of Content"
-msgstr ""
+msgstr "உள்ளடக்க அட்டவணைக்கான குறியீடுகள்"
 
 msgid "Chars for Smart Double Quotes"
-msgstr ""
+msgstr "சிறப்பு இரட்டை மேற்கோள் குறிகளுக்கான குறியீடுகள்"
 
 msgid "Chars for Smart Single Quotes"
-msgstr ""
+msgstr "சிறப்பு ஒற்றை மேற்கோள் குறிகளுக்கான குறியீடுகள்"
 
 msgid "Enable Smart Quotes Auto Replacement"
-msgstr ""
+msgstr "சிறப்பு மேற்கோள் குறிகளைத் தானாக மாற்றியமைப்பதைச் செயல்படுத்தவும்"
 
 msgid "Enable Symbol Auto Replacement"
-msgstr ""
+msgstr "குறியீடுகளைத் தானாக மாற்றியமைப்பதைச் செயல்படுத்தவும்"
 
 msgid "Supported Symbols Auto Replacements"
-msgstr ""
+msgstr "தானாக மாற்றியமைக்க ஆதரிக்கப்படும் குறியீடுகள்"
 
 msgid "Only at the Start of the Line"
-msgstr ""
+msgstr "வரியின் தொடக்கத்தில் மட்டும்"
 
 msgid "Tab Width"
-msgstr ""
+msgstr "தாவல் இடைவெளி அளவு"
 
 msgid "Insert Spaces Instead of Tabs"
-msgstr ""
+msgstr "தாவலுக்கு பதிலாக இடைவெளிகளைச் சேர்க்கவும்"
 
 msgid "Use Line Wrapping"
-msgstr ""
+msgstr "வரி மடிப்பு வசதியைப் பயன்படுத்தவும்"
 
 msgid "Line Wrapping Indentation"
-msgstr ""
+msgstr "வரி மடிப்புக்கான உள் தள்ளல்"
 
 msgid "Enable Automatic Indentation"
-msgstr ""
+msgstr "தானியங்கி உள் தள்ளலைச் செயல்படுத்தவும்"
 
 msgid "Scroll Beyond Last Line"
-msgstr ""
+msgstr "கடைசி வரிக்கு அப்பாலும் உருட்டவும்"
 
 msgid "Cursor Blinking"
-msgstr ""
+msgstr "கர்சர் மின்னுதல்"
 
 msgid "On"
-msgstr ""
+msgstr "இயக்கு"
 
 msgid "Off"
-msgstr ""
+msgstr "முடக்கு"
+
 
 msgid "Text Margin: Left"
-msgstr ""
+msgstr "உரை விளிம்பு: இடது"
 
 msgid "Right"
-msgstr ""
+msgstr "வலது"
 
 msgid "Vertical Space Around Lines"
-msgstr ""
+msgstr "வரிகளைச் சுற்றியுள்ள செங்குத்து இடைவெளி"
 
 msgid "Vertical Space in Wrapped Lines"
-msgstr ""
+msgstr "மடிக்கப்பட்ட வரிகளுக்கு இடையிலான செங்குத்து இடைவெளி"
 
 msgid "Timestamp Format"
-msgstr ""
+msgstr "நேர முத்திரை வடிவம்"
 
 msgid "Horizontal Rule"
-msgstr ""
+msgstr "கிடைமட்டக் கோடு"
 
 msgid "Chars to Select at Double Click"
-msgstr ""
+msgstr "இருமுறை கிளிக் செய்யும்போது தேர்ந்தெடுக்கப்பட வேண்டிய எழுத்துகள்"
 
 msgid "Light Background, Dark Text"
-msgstr ""
+msgstr "வெளிர் பின்னணி, அடர் உரை"
 
 msgid "Dark Background, Light Text"
-msgstr ""
+msgstr "அடர் பின்னணி, வெளிர் உரை"
 
 msgid "Custom Background"
-msgstr ""
+msgstr "தனிப்பயன் பின்னணி"
 
 msgid "Text"
-msgstr ""
+msgstr "உரை"
 
 msgid "Selection Background"
-msgstr ""
+msgstr "தேர்வுப் பகுதியின் பின்னணி"
 
 msgid "Table"
-msgstr ""
+msgstr "அட்டவணை"
 
 msgid "Code"
-msgstr ""
+msgstr "குறியீடு"
 
 msgid "Style Schemes"
-msgstr ""
+msgstr "பாணித் திட்டங்கள்"
 
 msgid "Text Foreground"
-msgstr ""
+msgstr "உரை முன்புற நிறம்"
 
 msgid "Text Background"
-msgstr ""
+msgstr "உரை பின்னணி நிறம்"
 
 msgid "Selection Foreground"
-msgstr ""
+msgstr "தேர்வுப் பகுதியின் முன்புற நிறம்"
 
 msgid "Cursor"
-msgstr ""
+msgstr "கர்சர்"
 
 msgid "Current Line Background"
-msgstr ""
+msgstr "தற்போதைய வரி பின்னணி"
 
 msgid "Line Numbers Foreground"
-msgstr ""
+msgstr "வரி எண்களின் முன்புற நிறம்"
 
 msgid "Line Numbers Background"
-msgstr ""
+msgstr "வரி எண்களின் பின்னணி நிறம்"
 
 msgid "Style Scheme Editor"
-msgstr ""
+msgstr "பாணித் திட்டத் திருத்தி"
 
 msgid "Set Dark Theme Icons"
-msgstr ""
+msgstr "அடர் தீம் சின்னங்களை அமை"
 
 msgid "Set Light Theme Icons"
-msgstr ""
+msgstr "வெளிர் தீம் சின்னங்களை அமை"
 
 msgid "Set Default Icons"
-msgstr ""
+msgstr "இயல்புநிலை சின்னங்களை அமை"
 
 msgid "Icon Theme"
-msgstr ""
+msgstr "சின்னத் தீம்"
 
 msgid "Split Toolbar"
-msgstr ""
+msgstr "கருவிப்பட்டையைப் பிரி"
 
 msgid "Use Different Cherries per Level"
-msgstr ""
+msgstr "ஒவ்வொரு நிலைக்கும் வெவ்வேறு சின்னங்களைப் பயன்படுத்து"
 
 msgid "No Icon"
-msgstr ""
+msgstr "சின்னம் இல்லை"
 
 msgid "Hide Right Side Auxiliary Icon"
-msgstr ""
+msgstr "வலது பக்க துணைச் சின்னத்தை மறை"
 
 msgid "Default Text Nodes Icons"
-msgstr ""
+msgstr "இயல்புநிலை உரை முனைச் சின்னங்கள்"
 
 msgid "Restore Expanded/Collapsed Status"
-msgstr ""
+msgstr "விரிவாக்கப்பட்ட/சுருக்கப்பட்ட நிலையை மீட்டமை"
 
 msgid "Expand all Nodes"
-msgstr ""
+msgstr "அனைத்து முனைகளையும் விரிவுபடுத்து"
 
 msgid "Collapse all Nodes"
-msgstr ""
+msgstr "அனைத்தையும் முனைகளையும் சுருக்கு"
 
 msgid "Nodes in Bookmarks Always Visible"
-msgstr ""
+msgstr "புக்மார்க்குகளில் உள்ள முனைகள் எப்போதும் தெரியும் வகையில் இருக்க வேண்டும்"
 
 msgid "Nodes Status at Startup"
-msgstr ""
+msgstr "தொடக்கத்தில் முனைகளின் நிலை"
 
 msgid "Tree Nodes Names Wrapping Width"
-msgstr ""
+msgstr "கிளை அமைப்பின் முனைகளின் பெயர்கள் மடிக்கப்படும் அகலம்"
 
 msgid "Display Tree on the Right Side"
-msgstr ""
+msgstr "கிளை அமைப்பை வலது பக்கத்தில் காட்டு"
 
 msgid "Move Focus to Text at Mouse Click"
-msgstr ""
+msgstr "சுட்டி மூலம் கிளிக் செய்யும்போது உரையின் மீது கவனத்தை மாற்று"
 
 msgid "Expand Node at Mouse Click"
-msgstr ""
+msgstr "சுட்டி மூலம் கிளிக் செய்யும்போது முனையை விரிவுபடுத்து"
 
 #, c-format
 msgid "'%s' is Not a Valid Archive"
-msgstr ""
+msgstr "'%s' என்பது செல்லுபடியாகும் காப்பகம் அல்ல"
 
 msgid "Writing to Disk..."
-msgstr ""
+msgstr "வட்டில் எழுதப்படுகிறது..."
 
 #, c-format
 msgid "You Have No Write Access to %s"
-msgstr ""
+msgstr "உங்களுக்கு %s-இல் எழுதும் அனுமதி இல்லை"
 
 #, c-format
 msgid "Enter Password for %s"
-msgstr ""
+msgstr "%s-க்கான கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "Failed integrity check of the saved document. Try File-->Save As"
-msgstr ""
+msgstr "சேமிக்கப்பட்ட ஆவணத்தின் ஒருமைப்பாடு சரிபார்ப்பு (integrity check) தோல்வியடைந்தது. கோப்பு -> இவ்வாறு சேமி என்பதை முயற்சிக்கவும்"
 
 msgid "Failed to encrypt the file"
-msgstr ""
+msgstr "கோப்பை மறைகுறியாக்கம் செய்வதில் தோல்வி"
 
 msgid "A Restore From Backup Was Necessary For:"
-msgstr ""
+msgstr "இதற்கு காப்புப்பிரதியிலிருந்து மீட்டமைத்தல் அவசியமாக இருந்தது:"
 
 #, c-format
 msgid "The database file %s is corrupt, see log for more details."
-msgstr ""
+msgstr "தரவுத்தளக் கோப்பு %s சிதைந்துள்ளது; கூடுதல் விவரங்களுக்குப் பதிவை பார்க்கவும்."
 
 #, c-format
 msgid ""
 "%s write failed - file is missing. Reattach USB drive or shared resource."
-msgstr ""
+msgstr "%s-இல் எழுதுதல் தோல்வியடைந்தது - கோப்பு காணப்படவில்லை. USB இயக்கி அல்லது பகிரப்பட்ட வளத்தை மீண்டும் இணைக்கவும்."
 
 #, c-format
 msgid "%s write failed - is file blocked by a sync program?"
-msgstr ""
+msgstr "%s-இல் எழுதுதல் தோல்வியடைந்தது - ஒத்திசைவு நிரலால் (sync program) கோப்பு தடுக்கப்பட்டுள்ளதா?"
 
 #, c-format
 msgid ""
 "%s reopen failed - file is missing. Reattach USB drive or shared resource."
-msgstr ""
+msgstr "%s-ஐ மீண்டும் திறப்பது தோல்வியடைந்தது - கோப்பு காணப்படவில்லை. USB இயக்கி அல்லது பகிரப்பட்ட வளத்தை மீண்டும் இணைக்கவும்."
 
 msgid "CherryTree Hierarchical Note Taking"
-msgstr ""
+msgstr "CherryTree படிநிலை குறிப்பு எடுத்தல் மென்பொருள்"
 
 msgid "_Exit CherryTree"
-msgstr ""
+msgstr "CherryTree-யிலிருந்து வெளியேறு"
 
 msgid "HTML Document"
-msgstr ""
+msgstr "HTML ஆவணம்"
 
 msgid "Markdown Document"
-msgstr ""
+msgstr "Markdown ஆவணம்"
 
 msgid "Mempad Document"
-msgstr ""
+msgstr "Mempad ஆவணம்"
 
 msgid "Treepad Document"
-msgstr ""
+msgstr "மரப்பலகை ஆவணம்"
 
 msgid "Leo Document"
-msgstr ""
+msgstr "லியோ ஆவணம்"
 
 msgid "Are you sure to Reset to Default?"
-msgstr ""
+msgstr "இயல்புநிலைக்கு மீட்டமைக்க உறுதியாக உள்ளீர்களா?"
