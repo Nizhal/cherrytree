@@ -2383,64 +2383,64 @@ msgid "CherryTree's Online Manual"
 msgstr ""
 
 msgid "_About"
-msgstr ""
+msgstr "பற்றி"
 
 msgid "_Open Preferences Directory"
-msgstr ""
+msgstr "விருப்பத்தேர்வுகள் கோப்பகத்தைத் திற"
 
 msgid "Open the Directory with Preferences Files"
-msgstr ""
+msgstr "விருப்பத்தேர்வுகள் கோப்புகள் உள்ள கோப்பகத்தைத் திற"
 
 msgid "C_ut Anchor"
-msgstr ""
+msgstr "நங்கூரத்தை வெட்டு"
 
 msgid "Cut the Selected Anchor"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட நங்கூரத்தை வெட்டு"
 
 msgid "_Copy Anchor"
-msgstr ""
+msgstr "நங்கூரத்தை நகலெடு"
 
 msgid "Copy the Selected Anchor"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட நங்கூரத்தை நகலெடு"
 
 msgid "_Delete Anchor"
-msgstr ""
+msgstr "நங்கூரத்தை நீக்கு"
 
 msgid "Delete the Selected Anchor"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட நங்கூரத்தை நீக்கு"
 
 msgid "Edit _Anchor..."
-msgstr ""
+msgstr "நங்கூரத்தைத் திருத்து..."
 
 msgid "Edit the Underlying Anchor"
-msgstr ""
+msgstr "அடிப்படையான நங்கூரத்தைத் திருத்து"
 
 msgid "Copy Anchor Link"
-msgstr ""
+msgstr "இணைப்பை நகலெடு"
 
 msgid "Copy Link to the Underlying Anchor to Clipboard"
-msgstr ""
+msgstr "அடிப்படை ஆங்கருக்கான இணைப்பை கிளிப்போர்டுக்கு நகலெடு"
 
 msgid "C_ut Embedded File"
-msgstr ""
+msgstr "உட்பொதிந்த கோப்பை வெட்டு"
 
 msgid "Cut the Selected Embedded File"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட உட்பொதிந்த கோப்பை வெட்டு"
 
 msgid "_Copy Embedded File"
-msgstr ""
+msgstr "உட்பொதிந்த கோப்பை நகலெடு"
 
 msgid "Copy the Selected Embedded File"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட உட்பொதிந்த கோப்பை நகலெடு"
 
 msgid "_Delete Embedded File"
-msgstr ""
+msgstr "உட்பொதிந்த கோப்பை நீக்கவும்"
 
 msgid "Delete the Selected Embedded File"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட உட்பொதிந்த கோப்பை நீக்கவும்"
 
 msgid "Open Embedded File"
-msgstr ""
+msgstr "உட்பொதிந்த கோப்பைத் திறக்கவும்"
 
 msgid "_Rename"
 msgstr "மறுபெயரிடவும்"
