@@ -2317,70 +2317,70 @@ msgid "Add Nodes of a Zim Folder to the Current Tree"
 msgstr ""
 
 msgid "Export"
-msgstr ""
+msgstr "ஏற்றுமதி"
 
 msgid "Export To _PDF"
-msgstr ""
+msgstr "PDF-க்கு ஏற்றுமதி செய்"
 
 msgid "Export To PDF"
-msgstr ""
+msgstr "PDF-க்கு ஏற்றுமதி செய்"
 
 msgid "Export To _HTML"
-msgstr ""
+msgstr "_HTML-க்கு ஏற்றுமதி செய்"
 
 msgid "Export To HTML"
-msgstr ""
+msgstr "HTML-க்கு ஏற்றுமதி செய்"
 
 msgid "Export to Plain _Text"
-msgstr ""
+msgstr "எளிய _உரைக்கு ஏற்றுமதி செய்"
 
 msgid "Export to Plain Text"
-msgstr ""
+msgstr "எளிய உரைக்கு ஏற்றுமதி செய்"
 
 msgid "_Export To CherryTree"
-msgstr ""
+msgstr "செர்ரிமரத்திற்கு ஏற்றுமதி செய்"
 
 msgid "Export To CherryTree File or Folder"
-msgstr ""
+msgstr "செர்ரிமர கோப்பு அல்லது கோப்புறைக்கு ஏற்றுமதி செய்"
 
 msgid "Help"
-msgstr ""
+msgstr "உதவி"
 
 msgid "_Check Newer Version"
-msgstr ""
+msgstr "புதிய பதிப்பு உள்ளதா எனச் சரிபார்"
 
 msgid "Check for a Newer Version Available Online"
-msgstr ""
+msgstr "இணையத்தில் புதிய பதிப்பு உள்ளதா எனச் சரிபார்"
 
 msgid "_Website"
-msgstr ""
+msgstr "இணையதளம்"
 
 msgid "Visit CherryTree's Website"
-msgstr ""
+msgstr "செர்ரிமரத்தின் இணையதளத்தைப் பார்வையிடு"
 
 msgid "_Source Code"
-msgstr ""
+msgstr "மூலக் குறியீடு"
 
 msgid "Browse CherryTree's Source Code Online"
-msgstr ""
+msgstr "செர்ரிமரத்தின் மூலக் குறியீட்டை இணையத்தில் பார்வையிடு"
 
 msgid "_Report a Bug"
-msgstr ""
+msgstr "பிழையைப் புகாரளி"
 
 msgid "Report a Bug in CherryTree"
-msgstr ""
+msgstr "செர்ரிமரத்தில் உள்ள பிழையைப் புகாரளி"
 
 msgid "_Donate"
-msgstr ""
+msgstr "நன்கொடை அளி"
 
 msgid "Donate to Support CherryTree"
-msgstr ""
+msgstr "செர்ரிமரத்திற்கு ஆதரவளிக்க நன்கொடை அளி"
 
 msgid "Online _Manual"
-msgstr ""
+msgstr "இணையவழி கையேடு"
 
 msgid "CherryTree's Online Manual"
-msgstr ""
+msgstr "செர்ரிமரத்தின் இணையவழி கையேடு"
 
 msgid "_About"
 msgstr "பற்றி"
